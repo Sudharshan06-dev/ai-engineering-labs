@@ -1,0 +1,5 @@
+tiktoken
+transformers
+openai
+python-dotenv
+ollama
