@@ -1,0 +1,7 @@
+datasets==2.21.0
+
+
+'''
+Link for exploring the solution
+https://www.google.com/search?q=zip+in+python+for+loop&sca_esv=9b5c4a1df88459b7&sxsrf=ANbL-n6wKbEIABvfhv0VuyEIXmDfGT2FAw%3A1781658865748&ei=8fQxasesLdDqptQPqpfQgAw&biw=1470&bih=835&uact=5&sclient=gws-wiz-serp&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpmAsnXCN5UBx17opt8eaTXz9awvmwbLijfri5gfg3jJATI9rpbTnpBO15gUmmjbsesncQ2aGi96lyORj60ZqSEpO6xpMRZbJeS-NVfYi6f64D6nHJcWMft8flqNkqMmObhkfxwUanjDEqzxTUtnYvJPM13KFW4pnW9gO7rL6WU4dt6ts7Dlq-rxTQ1BWV2iPzSwVf3Q&aep=10&ntc=1&mstk=AUtExfDF3d4sui6gdQWXWs2Mq6rD_4_P7-pKORhii7oAil4TMmSlO-865jvOXyOeda3xtBtrumn6G1c9F-p1NfRmy2hasoYnJ6SUJUMiz9y-qwuZUnJs8Jtrd5hOWWUCxCCt_Q3vssWu4uHZ2DFTQmbbkCERBvkdOCWGEqKC8R4979QZRbgLEShBHJfkRvxA0eAIJvP_3Is_MkxM1aNOx5Tbnt2-5z9Np2hiih_bkvC6fdcKgJ-dm09_apWOg6hIkbJUdAwZOJm-jVvy4Q&aioh=3&csuir=1&cs=1&sourceid=chrome&ccb=1&hl=en-US&mtid=nvYxaoTzIszQ5NoPqp3DyQU&udm=50
+'''
