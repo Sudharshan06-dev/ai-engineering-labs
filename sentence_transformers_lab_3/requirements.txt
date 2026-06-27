@@ -1,0 +1,6 @@
+sentence-transformers
+scikit-learn
+matplotlib
+numpy
+langchain-text-splitters
+datasets==2.21.0
